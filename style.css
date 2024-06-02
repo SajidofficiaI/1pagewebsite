@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+body{
+    background-color: #0000007e;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.manu{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    height: 70px;
+}
+.add{
+    color: #bb3606;
+}
+
+h1{
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+}
+.logo span{
+    color: orangered;
+    font-size: 40px;
+}
+.tag-manu{
+    color: white;
+    margin: 30px;
+    margin-top: 100px;
+    margin-right: 150px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+}
+a{
+    color: white;
+    margin: 30px;
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
+}
+.tag-manu a:hover{
+    color: #bb3606; 
+}
+.contant{
+    display: flex;
+}
+
+.box1{
+    margin-top: 150px;
+    margin-left: 50px;
+    color: white;
+    width: 700px;
+    height: 400px;
+    text-overflow: clip;
+    text-overflow: ellipsis;
+}
+.box2{
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+}
+.box2 img{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: -50px;
+    border-radius: 30px;
+}
+.box1 p{
+    color: white;
+    font-size: 15px;
+}
+
+span{
+    color: orangered;
+}
+h2{
+    font-size: 36px;
+}
+.icon{
+    margin-top: 70px;
+    display: flex;
+    transition: 0.4s ease-in-out;
+}
+.fa-brands{
+    color:orangered ;
+}
+.fa-solid{
+    color: orangered;
+}
+.fa-facebook{
+    font-size: 30px;
+}
+.fa-square-instagram{
+    font-size: 30px;
+}
+.fa-twitter{
+    font-size: 30px;
+}
+.fa-envelope{
+    font-size: 30px;
+}
+.fa-youtube{
+    font-size: 30px;
+}
+a i:hover{
+    color: #bb3606;
+}
+.cantainer{
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    
+    
+}
+.daby{
+    box-shadow: 2px 2px 4px 4px #222121;
+    height: 340px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    text-align: center;
+    color: white;
+    
+
+}
+
+
+
+.daby img{
+    border-radius: 15px;
+    justify-content: space-around;
+    height: 290px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.daby button{
+    color: white;
+    height: 35px;
+    width: 90px;
+    background-color: #fd3613;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    transition: transform 0.25s;
+}
+
+.daby button:hover{
+    transform: scale(1.2, 1.2);
+}
+.daby h5{
+    font-size: 17px;
+    border-radius: 5px;
+    color: black;
+    background-color: #bb3606;
+    width: 100%;
+    position: relative;
+    align-items: center;
+    top: -10px;
+}
+.daby h6{
+    color: #423a3a;
+    position: relative;
+    top: -5px;
+    font-size: 12px;
+}
+.kick{
+    display: flex;
+    text-align: center;
+    height: 100%;
+    margin-top: 200px;
+    justify-content: center;
+    background-color: #302f2f88;
+}
+
+.pro{
+    margin-top: 50px;
+    top: -40px;
+}
+
+h4{
+    padding: 20px;
+    font-size: 20px;
+    color: #fd3613;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
